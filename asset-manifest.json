@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/%7BReact-Js%7D/static/css/main.485123ec.css",
-    "main.js": "/%7BReact-Js%7D/static/js/main.163d5072.js",
-    "static/media/cuisines2.jpg": "/%7BReact-Js%7D/static/media/cuisines2.edc1df4e213a692b0ad8.jpg",
-    "static/media/cuisines3.jpg": "/%7BReact-Js%7D/static/media/cuisines3.e7d48d2ed1fc189bdcd3.jpg",
-    "static/media/menu.jpg": "/%7BReact-Js%7D/static/media/menu.28f9563df868266ab534.jpg",
-    "static/media/restaurant2.jpg": "/%7BReact-Js%7D/static/media/restaurant2.4a08ffce09939d36631c.jpg",
-    "static/media/cuisines.jpg": "/%7BReact-Js%7D/static/media/cuisines.043fe5424660eba8d0c4.jpg",
-    "static/media/restaurant.jpg": "/%7BReact-Js%7D/static/media/restaurant.221e670801145c0ca148.jpg",
-    "static/media/restaurant3.jpg": "/%7BReact-Js%7D/static/media/restaurant3.99b474035345663f566e.jpg",
-    "static/media/menu1.jpg": "/%7BReact-Js%7D/static/media/menu1.f2ce1b211a7650f7403d.jpg",
-    "static/media/menu2.jpg": "/%7BReact-Js%7D/static/media/menu2.eb44ec10ed81c204a75a.jpg",
-    "static/media/M1.jpg": "/%7BReact-Js%7D/static/media/M1.e44d1069b2a11441ff30.jpg",
-    "static/media/M2.jpg": "/%7BReact-Js%7D/static/media/M2.d9ec9ab945779b88be4a.jpg",
-    "static/media/M3.jpg": "/%7BReact-Js%7D/static/media/M3.2b2041a6a1bd9906c8a4.jpg",
-    "static/media/Banner.jpg": "/%7BReact-Js%7D/static/media/Banner.3c0ef20aca32b3a47346.jpg",
-    "static/media/Logo.png": "/%7BReact-Js%7D/static/media/Logo.a429688392b0217b1196.png",
-    "static/media/B1.jpg": "/%7BReact-Js%7D/static/media/B1.ce8de501b4f11bd60244.jpg",
-    "index.html": "/%7BReact-Js%7D/index.html",
-    "main.485123ec.css.map": "/%7BReact-Js%7D/static/css/main.485123ec.css.map",
-    "main.163d5072.js.map": "/%7BReact-Js%7D/static/js/main.163d5072.js.map"
+    "main.css": "/React-Js/static/css/main.485123ec.css",
+    "main.js": "/React-Js/static/js/main.430e20a1.js",
+    "static/media/cuisines2.jpg": "/React-Js/static/media/cuisines2.edc1df4e213a692b0ad8.jpg",
+    "static/media/cuisines3.jpg": "/React-Js/static/media/cuisines3.e7d48d2ed1fc189bdcd3.jpg",
+    "static/media/menu.jpg": "/React-Js/static/media/menu.28f9563df868266ab534.jpg",
+    "static/media/restaurant2.jpg": "/React-Js/static/media/restaurant2.4a08ffce09939d36631c.jpg",
+    "static/media/cuisines.jpg": "/React-Js/static/media/cuisines.043fe5424660eba8d0c4.jpg",
+    "static/media/restaurant.jpg": "/React-Js/static/media/restaurant.221e670801145c0ca148.jpg",
+    "static/media/restaurant3.jpg": "/React-Js/static/media/restaurant3.99b474035345663f566e.jpg",
+    "static/media/menu1.jpg": "/React-Js/static/media/menu1.f2ce1b211a7650f7403d.jpg",
+    "static/media/menu2.jpg": "/React-Js/static/media/menu2.eb44ec10ed81c204a75a.jpg",
+    "static/media/M1.jpg": "/React-Js/static/media/M1.e44d1069b2a11441ff30.jpg",
+    "static/media/M2.jpg": "/React-Js/static/media/M2.d9ec9ab945779b88be4a.jpg",
+    "static/media/M3.jpg": "/React-Js/static/media/M3.2b2041a6a1bd9906c8a4.jpg",
+    "static/media/Banner.jpg": "/React-Js/static/media/Banner.3c0ef20aca32b3a47346.jpg",
+    "static/media/Logo.png": "/React-Js/static/media/Logo.a429688392b0217b1196.png",
+    "static/media/B1.jpg": "/React-Js/static/media/B1.ce8de501b4f11bd60244.jpg",
+    "index.html": "/React-Js/index.html",
+    "main.485123ec.css.map": "/React-Js/static/css/main.485123ec.css.map",
+    "main.430e20a1.js.map": "/React-Js/static/js/main.430e20a1.js.map"
   },
   "entrypoints": [
     "static/css/main.485123ec.css",
-    "static/js/main.163d5072.js"
+    "static/js/main.430e20a1.js"
   ]
 }
